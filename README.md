@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Teja Chimata  
+## Hi there 👋 
 
 🎓 **Graduate Student in Computer Science** @ University of Cincinnati  
 💡 Passionate about **Machine Learning, Data Science, and Cloud Computing**  
