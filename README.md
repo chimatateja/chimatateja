@@ -7,7 +7,7 @@
 ---
 
 ## About Me  
-- 🌱 Currently pursuing **Master of Engineering (MEng) in Computer Science** (Aug 2024 – Dec 2025)  
+- 🌱 Currently pursuing **Master of Engineering (MEng) in Computer Science** 
 - 🧑‍💻 Past internships:  
   - **Data Science Intern** @ SlashMark (Jan 2024 – Apr 2024)  
   - **Machine Learning Intern** @ Indian Servers (Apr 2022 – Dec 2023)  
