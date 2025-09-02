@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Teja Chimata  
 
-<!--
-**chimatateja/chimatateja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Graduate Student in Computer Science** @ University of Cincinnati  
+💡 Passionate about **Machine Learning, Data Science, and Cloud Computing**  
+🔍 Exploring the intersection of **AI + Data Engineering + Cloud**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌱 Currently pursuing **Master of Engineering (MEng) in Computer Science** (Aug 2024 – Dec 2025)  
+- 🧑‍💻 Past internships:  
+  - **Data Science Intern** @ SlashMark (Jan 2024 – Apr 2024)  
+  - **Machine Learning Intern** @ Indian Servers (Apr 2022 – Dec 2023)  
+- 📊 Experienced in **Python, SQL, Data Analytics, Machine Learning, and Cloud Platforms (AWS, Azure, GCP)**  
+- 📚 Always curious to learn, experiment, and build impactful solutions  
